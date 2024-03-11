@@ -7,9 +7,10 @@ Modified code using VSCode to display and track employee's names and salary. Als
 ![Screenshot 2024-03-10 at 7 21 02 PM](https://github.com/alyssawink/EmployeeSalary/assets/157747737/e18f302e-13a6-489e-8c86-002cc4896894)
 
 ## URLs
-[](https://alyssawink.github.io/EmployeeSalary/)
 
 [](https://github.com/alyssawink/EmployeeSalary)https://github.com/alyssawink/EmployeeSalary
+
+[](https://alyssawink.github.io/EmployeeSalary/)https://alyssawink.github.io/EmployeeSalary/
 
 ## Author
 Alyssa Hanewinkel
