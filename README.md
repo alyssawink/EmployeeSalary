@@ -9,7 +9,7 @@ Modified code using VSCode to display and track employee's names and salary. Als
 ## URLs
 [](https://alyssawink.github.io/EmployeeSalary/)
 
-[](https://github.com/alyssawink/EmployeeSalary)
+[](https://github.com/alyssawink/EmployeeSalary)https://github.com/alyssawink/EmployeeSalary
 
 ## Author
 Alyssa Hanewinkel
