@@ -35,7 +35,7 @@ if (isNaN(employee.salary)) {
 }
 
   return employee;
-}
+};
 
 
 // Display the average salary
@@ -66,11 +66,9 @@ const getRandomEmployee = function(employeesArray) {
 
   const randomIndex = Math.floor(Math.random() * employeesArray.length);
 
-  const randomEmployee = employeesArray[randomIndex];
+  const randomEmployee = employeesArray[randomIndex].firstName + " " + employeesArray[randomIndex].lastName;
 
-  console.log("Random Employee:");
-  console.log("Name:", randomEmployee.firstName + " " + randomEmployee.lastName);
-  console.log("Salary:", randomEmployee.salary);
+  return console.log(`Congratulations to, ${randomEmployee}, our random drawing winner!`);
 };
 
 /*
